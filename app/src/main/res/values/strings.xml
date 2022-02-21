@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">taches des utilisateurs</string>
+    <string name="stg_users">Users</string>
+    <string name="stg_taches">Taches</string>
+</resources>

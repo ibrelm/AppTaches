@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- stroke = border -->
+    <!-- can you add that for border  => android:width="1dp" -->
+    <stroke
+        android:width="2dp"
+        android:color="@color/black"
+        />
+
+    <!-- border-radius -->
+    <corners
+        android:radius="2dp"/>
+
+    <!-- color background-->
+    <solid android:color="@color/white"/>
+
+
+</shape>
